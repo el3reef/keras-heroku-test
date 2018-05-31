@@ -1,0 +1,10 @@
+{
+  "name": "keras-heroku-test",
+  "description": "keras-heroku-test",
+  "keywords": [
+    "flask",
+    "python",
+    "sample"
+  ],
+  "repository": "https://github.com/el3reef/keras-heroku-test"
+}
